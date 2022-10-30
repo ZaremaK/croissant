@@ -1,0 +1,15 @@
+#image-home{
+    display: block;
+    max-width: 100%;
+    width: 600px;
+    height: auto;
+    object-fit: contain;
+}
+
+#image-about{
+    display: block;
+    max-width: 100%;
+    width: 600px;
+    height: 90%;
+    object-fit: contain;
+}
